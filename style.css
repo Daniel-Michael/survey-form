@@ -1,0 +1,30 @@
+body {
+  background-color: silver;
+  text-align: center;
+  font-family: courier;
+  min-width: 320px;
+}
+#outside-form {
+  background-color: #08a8a8;
+  margin: 0 auto;
+  border-radius: 38px;
+  width: 75%;
+  max-width: 800px;
+  padding: 10px;
+  padding-top: 20px;
+}
+
+container {
+  position: relative;
+/*   top: 50px;
+  right: 350px; */
+}
+h1 {
+  color: #08a8a8;
+}
+#sad-text {
+  font-size: 12px;
+}
+footer {
+  font-size: 10px;
+}
